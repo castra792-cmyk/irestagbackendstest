@@ -1,6 +1,6 @@
 import requests
 import random
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, requestk
 from datetime import datetime, timedelta, timezone
 
 class GameInfo:
